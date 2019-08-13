@@ -34,7 +34,7 @@ Then, set up the directory to your restore file.
 
 ![Imgur](https://i.imgur.com/kzrOEk8.png)
 
-Now, this part is important. In PostgreSQL, there are owner and privilidge settings. However, in the target database, the owners or owner groups might not exist. Therefore, we change the settings in **restore options**, we **do not save owner and priviledges**. You still can alter the owners and priviledges later on.
+Now, this part is important. In PostgreSQL, there are owner and privilege settings. However, in the target database, the owners or owner groups might not exist. Therefore, we change the settings in **restore options**, we **do not save owner and privileges**. You still can alter the owners and privileges later on.
 
 ![Imgur](https://i.imgur.com/shotK4r.png)
 
