@@ -8,7 +8,7 @@ This is an example showing how to migrate PostgreSQL data to another PostgreSQL 
 
 **STEP2** Find your source & target
 
-For example, I have 2 external databases here. I'm going to migrate some data from **f990c-** to **7056f-**
+For example, I have 2 external databases here. I'm going to migrate some data from **f990c75b-** to **7056feb0-**
 
 ![Imgur](https://i.imgur.com/TuxBXwD.png)
 
@@ -38,7 +38,7 @@ Now, this part is important. In PostgreSQL, there are owner and privilidge setti
 
 ![Imgur](https://i.imgur.com/shotK4r.png)
 
-**STEP5** Post restore check
+**STEP5** Post-restore check
 
 Refresh the database to check for update.
 
